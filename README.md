@@ -47,7 +47,7 @@ I’m a full-stack developer, lifelong learner, and former professional football
 
 ## 📫 Let’s Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/douglasalfaro)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/douglas--alfaro)
 - 📬 Email: douglasalfaro94@gmail.com
 
 Thanks for stopping by!
