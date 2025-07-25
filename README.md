@@ -1,53 +1,44 @@
 # 👋 Hey, I'm Douglas Alfaro
 
-I’m a full-stack developer, lifelong learner, and former professional footballer turned tech enthusiast.
+I’m a full-stack developer, AI engineer, and lifelong learner — with a past life as a professional footballer.
 
-🎓 With a B.Sc. in Computer Science and an M.A. in International Business, I combine tech expertise with a strategic mindset to build useful, scalable, and clean solutions.
-
-🌍 I've worked at Google, coached youth teams, taught languages, and helped clients automate workflows, migrate to the cloud, and bring their product ideas to life.
+🎓 I hold a B.Sc. in Computer Science and an M.A. in International Business, blending technical depth with strategic thinking. I've worked at Google, SOAX, built ML models in production, and taught languages and coding in multicultural classrooms.
 
 ---
 
-## ⚙️ Tech Stack & Tools I Enjoy Working With
+## ⚙️ Tech Stack & Tools
 
-- **Languages:** JavaScript (Node.js), Python, HTML/CSS, Kotlin
-- **Frameworks:** React, Express, Next.js, Flask
-- **Databases:** MongoDB, PostgreSQL, Firebase
-- **Dev Tools:** GitHub Actions, Docker, N8N, Postman, Vercel
-- **Other:** Blockchain basics, AI tools, automation workflows, API integrations
-
----
-
-## 🧠 Things I'm Learning
-
-- Blockchain infrastructure & smart contracts  
-- Open-source contribution  
-- AI/LLM integrations (ChatGPT, Gemini, Claude, etc.)  
-- Cloud services (Google Cloud, Vercel, Netlify)
+- **Languages:** Python, JavaScript (Node.js), Kotlin, SQL, Go
+- **AI & ML:** PyTorch, TensorFlow, Hugging Face, LangChain, RAG pipelines
+- **Web Dev:** React, Next.js, Express, REST APIs
+- **DevOps & Infra:** Docker, GitHub Actions, CI/CD, Linux, Render, Firebase
+- **Monitoring & Data:** Grafana, Prometheus, PostgreSQL, MongoDB, Pandas, NumPy
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 What I'm Working On
 
-- 🔄 **Workflow Automation Bot** – Automates daily reports and emails using Node.js & Google Sheets API  
-- 📊 **Sales Tracker Dashboard** – Full-stack app to visualize business KPIs for small businesses  
-- ⚽ **Football Coach Scheduler** – Lightweight tool for organizing weekly practice sessions with QR check-in  
-
-*More coming soon…*
+- 🌞 [Solar Quote API](https://github.com/douglasalfaro/solar-quote-api) – REST API for estimating solar energy savings, deployed on Render  
+- 🤖 AI system monitoring & performance optimization  
+- 🧩 Exploring vector databases, fine-tuning LLMs, and building open-source tools  
+- 📊 SEO dashboards and sales automation tools for SMBs
 
 ---
 
-## ✨ Fun Facts
+## 🌍 Experience Highlights
 
-- I’ve lived and worked in 3 countries 🌏 (El Salvador, Taiwan, USA)  
-- Fluent in **English** & **Spanish**, conversational in **Chinese** & **Portuguese**  
-- I teach, coach, code, and occasionally write content for SEO projects  
+- 🧠 **AI Support Engineer @ SOAX (UK):** Built ML pipelines, monitored AI performance, automated support workflows  
+- 👨‍🏫 **CS & AI Teacher @ Belle's Academy:** Introduced Python, Java & AI to students in Taiwan  
+- ☁️ **Tech Support @ Google (El Salvador):** Migrated clients to Google Workspace and optimized onboarding  
+- ⚽ **Pro Footballer in 🇸🇻 & 🇹🇼:** Leadership, discipline, and global teamwork
 
 ---
 
 ## 📫 Let’s Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/douglas--alfaro)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/douglas--alfaro/)
 - 📬 Email: douglasalfaro94@gmail.com
 
-Thanks for stopping by!
+---
+
+> “Keep learning, keep building, and stay curious.” 💡
