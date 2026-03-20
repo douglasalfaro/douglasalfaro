@@ -1,44 +1,58 @@
 # 👋 Hey, I'm Douglas Alfaro
 
-I’m a full-stack developer, AI engineer, and lifelong learner — with a past life as a professional footballer.
-
-🎓 I hold a B.Sc. in Computer Science and an M.A. in International Business, blending technical depth with strategic thinking. I've worked at Google, SOAX, built ML models in production, and taught languages and coding in multicultural classrooms.
-
----
-
-## ⚙️ Tech Stack & Tools
-
-- **Languages:** Python, JavaScript (Node.js), Kotlin, SQL, Go
-- **AI & ML:** PyTorch, TensorFlow, Hugging Face, LangChain, RAG pipelines
-- **Web Dev:** React, Next.js, Express, REST APIs
-- **DevOps & Infra:** Docker, GitHub Actions, CI/CD, Linux, Render, Firebase
-- **Monitoring & Data:** Grafana, Prometheus, PostgreSQL, MongoDB, Pandas, NumPy
+**Founder & CEO @ Alpha Cool LLC** · Full-Stack Developer · AI Engineer  
+Building AI-powered products for Latin American businesses — from WhatsApp automation to web platforms.
 
 ---
 
-## 🧠 What I'm Working On
+## 🚀 What I'm Building
 
-- 🌞 [Solar Quote API](https://github.com/douglasalfaro/solar-quote-api) – REST API for estimating solar energy savings, deployed on Render  
-- 🤖 AI system monitoring & performance optimization  
-- 🧩 Exploring vector databases, fine-tuning LLMs, and building open-source tools  
-- 📊 SEO dashboards and sales automation tools for SMBs
-
----
-
-## 🌍 Experience Highlights
-
-- 🧠 **AI Support Engineer @ SOAX (UK):** Built ML pipelines, monitored AI performance, automated support workflows  
-- 👨‍🏫 **CS & AI Teacher @ Belle's Academy:** Introduced Python, Java & AI to students in Taiwan  
-- ☁️ **Tech Support @ Google (El Salvador):** Migrated clients to Google Workspace and optimized onboarding  
-- ⚽ **Pro Footballer in 🇸🇻 & 🇹🇼:** Leadership, discipline, and global teamwork
+- 🤖 **AI WhatsApp Sales Assistant** — RAG + LLM system (FastAPI, PostgreSQL, Redis, Wati) 
+  for automated customer service, lead qualification & human escalation
+- 🌐 **Web Modernization Projects** — SvelteKit/React frontends with SEO, analytics & e-commerce
+- ⚙️ **Mini Automation Framework** — Python/Selenium/pytest test automation suite
+- 📋 **Task Scheduling REST API** — Spring Boot, MySQL, Redis, RocketMQ via Docker Compose
 
 ---
 
-## 📫 Let’s Connect
+## 🧠 Tech Stack
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/douglas--alfaro/)
-- 📬 Email: douglasalfaro94@gmail.com
+| Area | Tools |
+|---|---|
+| **Languages** | Python, JavaScript (Node.js), Java, Kotlin, SQL |
+| **AI / ML** | PyTorch, TensorFlow, Hugging Face, LangChain, RAG, OpenCV, MediaPipe |
+| **Web** | React, Next.js, SvelteKit, Express, REST APIs |
+| **DevOps** | Docker, GitHub Actions, CI/CD, Linux, AWS |
+| **Data & Monitoring** | Grafana, Prometheus, PostgreSQL, MongoDB, Pandas |
 
 ---
 
-> “Keep learning, keep building, and stay curious.” 💡
+## 💼 Experience Highlights
+
+- 🏢 **Founder & CEO @ Alpha Cool LLC** *(2025 – Present)*  
+  Delivering AI automation & web development to SMBs across Latin America
+- 🧬 **AI Support Engineer @ SOAX Ltd (UK)** *(2022–2024)*  
+  Built ML pipelines, automated workflows, reduced processing time by 40%
+- ☁️ **Tech Support @ Google (El Salvador)** *(2013–2016)*  
+  Enterprise Google Workspace migrations & onboarding
+- ⚽ **Pro Footballer in 🇸🇻 & 🇹🇼** *(2015–2024)*  
+  Taiwanese Premier League · Discipline, leadership, global teamwork
+
+---
+
+## 🎓 Education
+
+- **M.Sc. International Business & Trade** — Ming Chuan University, Taiwan (2024)
+- **B.Sc. Computer Science & Information Engineering** — National Dong Hwa University, Taiwan (2021)
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://linkedin.com/in/douglas-alfaro)
+- 📧 douglas@alphacooltech.com
+- 🏢 [Alpha Cool LLC](https://alphacooltech.com)
+
+---
+
+> *"Keep learning, keep building, and stay curious."* 💡
