@@ -16,11 +16,13 @@ Building practical, AI-powered products for Latin American businesses — from W
 
 | Project | What it is | Tech |
 | --- | --- | --- |
-| [**mini-automation-framework**](https://github.com/douglasalfaro/mini-automation-framework) | Test-automation framework with API & UI page objects, pre-commit, Docker, and CI | Python · pytest · Playwright |
-| [**AQA_RestAPI_ReqRes**](https://github.com/douglasalfaro/AQA_RestAPI_ReqRes) | REST API automation test suite with CI | Python · pytest |
+| **whatsapp-invoicing-saas** 🔒 | Multi-tenant WhatsApp SaaS for issuing SIFEN electronic invoices in Paraguay | Node.js · TypeScript · PostgreSQL |
+| **Paraguay-BOT** 🔒 | Bilingual (ES/EN) AI sales & after-sales assistant — knowledge base, calendar scheduling, email | Python · FastAPI · LangChain · OpenAI |
+| **majimoney** 🔒 | Bilingual LINE chatbot that turns chat messages into bookkeeping via AI parsing | Node.js · Vercel · PostgreSQL · Claude |
 | [**node-api-boilerplate**](https://github.com/douglasalfaro/node-api-boilerplate) | Clean Express 5 REST API starter — tests, Docker, CI | Node.js · Express |
-| [**solar-quote-api**](https://github.com/douglasalfaro/solar-quote-api) | API that calculates solar-installation quotes, documented with Swagger | Node.js · Express |
-| [**twitch_mobile_test_douglas**](https://github.com/douglasalfaro/twitch_mobile_test_douglas) | Twitch mobile UI automation suite | Python · pytest · Selenium |
+| **alphacooltech-website** 🔒 | Trilingual (EN/ES/ZH) marketing site for Alpha Cool LLC | HTML · CSS · JS · Netlify |
+
+> 🔒 = private repository (client or proprietary work) — available on request.
 
 ---
 
@@ -54,15 +56,6 @@ Building practical, AI-powered products for Latin American businesses — from W
 
 - **M.Sc. International Business & Trade** — Ming Chuan University, Taiwan (2024)
 - **B.Sc. Computer Science & Information Engineering** — National Dong Hwa University, Taiwan (2021)
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img alt="Douglas's GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=douglasalfaro&show_icons=true&hide_border=true">
-  <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasalfaro&layout=compact&hide_border=true">
-</p>
 
 ---
 
