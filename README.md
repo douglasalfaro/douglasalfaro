@@ -16,7 +16,7 @@ Building practical, AI-powered products for Latin American businesses — from W
 
 | Project | What it is | Tech |
 | --- | --- | --- |
-| [**mini-automation-framework**](https://github.com/douglasalfaro/mini-automation-framework) | Test-automation framework with API & UI page objects, pre-commit, Docker, and CI | Python · pytest · Selenium |
+| [**mini-automation-framework**](https://github.com/douglasalfaro/mini-automation-framework) | Test-automation framework with API & UI page objects, pre-commit, Docker, and CI | Python · pytest · Playwright |
 | [**AQA_RestAPI_ReqRes**](https://github.com/douglasalfaro/AQA_RestAPI_ReqRes) | REST API automation test suite with CI | Python · pytest |
 | [**node-api-boilerplate**](https://github.com/douglasalfaro/node-api-boilerplate) | Clean Express 5 REST API starter — tests, Docker, CI | Node.js · Express |
 | [**solar-quote-api**](https://github.com/douglasalfaro/solar-quote-api) | API that calculates solar-installation quotes, documented with Swagger | Node.js · Express |
@@ -33,7 +33,7 @@ Building practical, AI-powered products for Latin American businesses — from W
 | **Web** | React, Next.js, SvelteKit, Express, REST APIs |
 | **DevOps** | Docker, GitHub Actions, CI/CD, Linux, AWS |
 | **Data & Monitoring** | Grafana, Prometheus, PostgreSQL, MongoDB, Pandas |
-| **QA / Automation** | pytest, Selenium, Supertest, pre-commit |
+| **QA / Automation** | pytest, Playwright, Selenium, Supertest, pre-commit |
 
 ---
 
