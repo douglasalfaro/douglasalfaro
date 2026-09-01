@@ -5,7 +5,7 @@
 Building practical, AI-powered products for Latin American businesses — from WhatsApp automation to web platforms and APIs.
 
 <p>
-  <a href="https://linkedin.com/in/douglas-alfaro"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/douglas--alfaro/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="mailto:douglas@alphacooltech.com"><img alt="Email" src="https://img.shields.io/badge/Email-douglas%40alphacooltech.com-EA4335?logo=gmail&logoColor=white"></a>
   <a href="https://alphacooltech.com"><img alt="Website" src="https://img.shields.io/badge/Website-alphacooltech.com-4F46E5?logo=googlechrome&logoColor=white"></a>
 </p>
@@ -17,12 +17,15 @@ Building practical, AI-powered products for Latin American businesses — from W
 | Project | What it is | Tech |
 | --- | --- | --- |
 | **whatsapp-invoicing-saas** 🔒 | Multi-tenant WhatsApp SaaS for issuing SIFEN electronic invoices in Paraguay | Node.js · TypeScript · PostgreSQL |
-| **Paraguay-BOT** 🔒 | Bilingual (ES/EN) AI sales & after-sales assistant — knowledge base, calendar scheduling, email | Python · FastAPI · LangChain · OpenAI |
+| [**Wayne AI** 🔒](https://github.com/douglasalfaro/wayne-ai) | Douglas-owned learning management system for AI-assisted English essay feedback | Django · React · OpenAI |
+| **Paraguay-BOT** 🔒 | Bilingual AI sales and support assistant with WhatsApp, product RAG, booking workflows, and human escalation | Python · FastAPI · LangChain · OpenAI |
 | **majimoney** 🔒 | Bilingual LINE chatbot that turns chat messages into bookkeeping via AI parsing | Node.js · Vercel · PostgreSQL · Claude |
 | [**node-api-boilerplate**](https://github.com/douglasalfaro/node-api-boilerplate) | Clean Express 5 REST API starter — tests, Docker, CI | Node.js · Express |
 | **alphacooltech-website** 🔒 | Trilingual (EN/ES/ZH) marketing site for Alpha Cool LLC | HTML · CSS · JS · Netlify |
 
 > 🔒 = private repository (client or proprietary work) — available on request.
+>
+> **Ownership note:** Wayne AI is an original project owned and maintained by Douglas Alfaro / Alpha Cool LLC.
 
 ---
 
@@ -61,7 +64,7 @@ Building practical, AI-powered products for Latin American businesses — from W
 
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://linkedin.com/in/douglas-alfaro)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/douglas--alfaro/)
 - 📧 douglas@alphacooltech.com
 - 🏢 [Alpha Cool LLC](https://alphacooltech.com)
 
