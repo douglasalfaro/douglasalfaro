@@ -17,7 +17,7 @@ Building practical, AI-powered products for Latin American businesses — from W
 | Project | What it is | Tech |
 | --- | --- | --- |
 | **whatsapp-invoicing-saas** 🔒 | Multi-tenant WhatsApp SaaS for issuing SIFEN electronic invoices in Paraguay | Node.js · TypeScript · PostgreSQL |
-| [**Wayne AI** 🔒](https://github.com/douglasalfaro/wayne-ai) | Douglas-owned learning management system for AI-assisted English essay feedback | Django · React · OpenAI |
+| **Wayne AI** 🔒 | Douglas-owned learning management system for AI-assisted English essay feedback | Django · React · OpenAI |
 | **Paraguay-BOT** 🔒 | Bilingual AI sales and support assistant with WhatsApp, product RAG, booking workflows, and human escalation | Python · FastAPI · LangChain · OpenAI |
 | **majimoney** 🔒 | Bilingual LINE chatbot that turns chat messages into bookkeeping via AI parsing | Node.js · Vercel · PostgreSQL · Claude |
 | [**node-api-boilerplate**](https://github.com/douglasalfaro/node-api-boilerplate) | Clean Express 5 REST API starter — tests, Docker, CI | Node.js · Express |
